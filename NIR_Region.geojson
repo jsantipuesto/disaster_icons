@@ -1,0 +1,16 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "region_cd": "NIR",
+        "region_nm": "Negros Island Region"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[122.5,10.2],[123.2,10.2],[123.2,9.5],[122.5,9.5],[122.5,10.2]]]
+      }
+    }
+  ]
+}
